@@ -1,0 +1,1 @@
+[21-Oct-2020 16:07:41 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/kangan/public_html/kanganjwellers/tests/TestCase.php on line 7

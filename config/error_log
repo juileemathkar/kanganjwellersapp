@@ -1,0 +1,4 @@
+[21-Oct-2020 15:38:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/kangan/public_html/kanganjwellers/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kangan/public_html/kanganjwellers/config/app.php on line 16

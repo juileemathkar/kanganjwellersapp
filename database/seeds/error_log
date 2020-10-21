@@ -1,0 +1,1 @@
+[21-Oct-2020 15:52:48 UTC] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/kangan/public_html/kanganjwellers/database/seeds/DatabaseSeeder.php on line 5

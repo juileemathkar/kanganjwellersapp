@@ -1,0 +1,3 @@
+[20-Oct-2020 01:15:15 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/kangan/public_html/kanganjwellers/app/User.php on line 9
+[21-Oct-2020 15:24:10 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/kangan/public_html/kanganjwellers/app/User.php on line 9
+[21-Oct-2020 16:27:47 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/kangan/public_html/kanganjwellers/app/User.php on line 9

@@ -1,0 +1,16 @@
+[21-Oct-2020 15:40:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/kangan/public_html/kanganjwellers/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kangan/public_html/kanganjwellers/routes/api.php on line 16
+[21-Oct-2020 15:40:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/kangan/public_html/kanganjwellers/routes/web.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/kangan/public_html/kanganjwellers/routes/web.php on line 14
+[21-Oct-2020 15:41:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/kangan/public_html/kanganjwellers/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kangan/public_html/kanganjwellers/routes/console.php on line 16
+[21-Oct-2020 15:41:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/kangan/public_html/kanganjwellers/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/kangan/public_html/kanganjwellers/routes/channels.php on line 14
